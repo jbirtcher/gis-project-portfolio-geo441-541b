@@ -17,7 +17,7 @@
 
 ## Build Selections and Queries
 
-- [Query Spatial Data for New Insights](build-selections-and-queries/Copy_of_week_05_assignment_template.ipynb)
+- [Query Spatial Data for New Insights](build-selections-and-queries/query-spatial-data-for-new-insights.ipynb)
 
 ## Map Coordinate Basics
 
