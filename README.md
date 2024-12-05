@@ -29,7 +29,7 @@
 
 ## Spatial Analysis
 
-- [Spatial Analysis for Raster Data](spatial-analysis/Copy_of_week_09_assignment_template.ipynb)
+- [Spatial Analysis for Raster Data](spatial-analysis/spatial-analysis-raster-data.ipynb)
 
 ## Week 11 Explanation
 
