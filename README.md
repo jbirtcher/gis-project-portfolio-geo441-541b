@@ -25,7 +25,7 @@
 
 ## Remote Sensing Basics
 
-- [Understanding Band Composite](remote-sensing-basics/Copy_of_geo441_541_understand_band_composite.ipynb)
+- [Understanding Band Composite](remote-sensing-basics/understand-band-composite.ipynb)
 
 ## Spatial Analysis
 
