@@ -37,4 +37,4 @@
 
 ## Final Project
 
--[Final Deliverable](https://storymaps.arcgis.com/stories/2fbdb1dd7fc24b749aafe3f527748ce2)
+-[Final Deliverable](final-project/Final_Project_Deliverable.ipynb)
